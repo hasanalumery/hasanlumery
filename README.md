@@ -46,7 +46,7 @@ Alumery </h1>
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greedy854&show_icons=true&theme=radical" alt="Greedy854's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanalumery&show_icons=true&theme=radical" alt="Hasanalumery's GitHub Stats" />
 </p>
 
 ---
