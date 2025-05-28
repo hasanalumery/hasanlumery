@@ -41,13 +41,6 @@ Alumery </h1>
 - 🎮 **[Tomodatchi](http://tomodatchi.hasanalumery.nl/)**  
  A webapp with a virtual firend for you to play with :)
 
----
-
-### 📈 GitHub Stats
-
-*// <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanalumery&show_icons=true&theme=radical" alt="Hasanalumery's GitHub Stats" />
-</p> //*
 
 ---
 
